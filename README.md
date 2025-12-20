@@ -66,12 +66,12 @@ A collection of my daily coding assignments demonstrating my progress from basic
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BachhavPritesh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BachhavPritesh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
 
 <p align="center">
-  Created with ❤️ by [Your Name]
+  Created with ❤️ by Pritesh
 </p>
