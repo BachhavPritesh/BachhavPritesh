@@ -31,14 +31,14 @@ Here are some of the major projects I have built to practice my design and codin
 
 | Project Name | Description | Demo |
 | :--- | :--- | :---: |
-| **🚀 SpaceX Clone** | A responsive clone of the SpaceX landing page. | [View Project](./PROJECTS/SpaceX/spaceX.html) |
-| **🎮 STEAM Store** | A conceptual redesign of the Steam gaming store. | [View Project](./PROJECTS/Gaming/gamics/index.html) |
-| **🎨 Canva Clone** | A UI replica of the popular design tool Canva. | [View Project](./PROJECTS/Canva/canva.html) |
-| **📰 News Reader** | A layout for reading news articles. | [View Project](./PROJECTS/News/news.html) |
-| **📈 Tricker Web** | A financial/stock ticker interface. | [View Project](./PROJECTS/ticker/ticker.html) |
-| **👻 GHOST** | A modern themed landing page. | [View Project](./PROJECTS/GHOST/ghost.html) |
-| **🍀 DUER** | A Clothing Brand interface. | [View Project](./PROJECTS/Canva/duer.html) |
-| **🌜 DREAM GAMES** | A webpage for games. | [View Project](./PROJECTS/DREAM/dream.html) |
+| **🚀 SpaceX Clone** | A responsive clone of the SpaceX landing page. | [View Project](.HtmlAssignment/Projects/SpaceX/spaceX.html) |
+| **🎮 STEAM Store** | A conceptual redesign of the Steam gaming store. | [View Project](.HtmlAssignment/Projects/Gaming/gamics/index.html) |
+| **🎨 Canva Clone** | A UI replica of the popular design tool Canva. | [View Project](.HtmlAssignment/Projects/Canva/canva.html) |
+| **📰 News Reader** | A layout for reading news articles. | [View Project](.HtmlAssignment/Projects/News/news.html) |
+| **📈 Tricker Web** | A financial/stock ticker interface. | [View Project](.HtmlAssignment/Projects/ticker/ticker.html) |
+| **👻 GHOST** | A modern themed landing page. | [View Project](.HtmlAssignment/Projects/GHOST/ghost.html) |
+| **🍀 DUER** | A Clothing Brand interface. | [View Project](.HtmlAssignment/Projects/Canva/duer.html) |
+| **🌜 DREAM GAMES** | A webpage for games. | [View Project](.HtmlAssignment/Projects/DREAM/dream.html) |
 
 ---
 
