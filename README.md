@@ -37,6 +37,8 @@ Here are some of the major projects I have built to practice my design and codin
 | **📰 News Reader** | A layout for reading news articles. | [View Project](./PROJECTS/News/news.html) |
 | **📈 Tricker Web** | A financial/stock ticker interface. | [View Project](./PROJECTS/ticker/ticker.html) |
 | **👻 GHOST** | A modern themed landing page. | [View Project](./PROJECTS/GHOST/ghost.html) |
+| **🍀 DUER** | A Clothing Brand interface. | [View Project](./PROJECTS/Canva/duer.html) |
+| **🌜 DREAM GAMES** | A webpage for games. | [View Project](./PROJECTS/DREAM/dream.html) |
 
 ---
 
