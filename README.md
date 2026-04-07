@@ -89,25 +89,6 @@ const pritesh = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
-
-## 🌟 Featured Projects
-
-> A curated selection of projects that showcase my development journey.
-
-| 🚀 Project | 📝 Description | 🔧 Tech Used | 🔗 Demo |
-|:---|:---|:---|:---:|
-| **🚨 Women Safety Alert** | Full-stack emergency alert app with real-time location sharing and SOS trigger | `React` `Node.js` `MongoDB` `Express` | — |
-| **🎬 Movie Database App** | Browse & search movies using OMDB API with Redux Toolkit state management | `React` `RTK Query` `Redux` `Tailwind` | — |
-| **🌤️ Weather Forecast App** | Live weather app with location-based search and responsive design | `React` `Tailwind CSS` `Weather API` | — |
-| **🚀 SpaceX Clone** | Pixel-perfect responsive clone of the SpaceX official landing page | `HTML5` `CSS3` `JavaScript` | [View »](HtmlAssignment/Projects/SpaceX/spaceX.html) |
-| **🎮 STEAM Store Redesign** | Conceptual redesign of the Steam gaming store UI | `HTML5` `CSS3` `JavaScript` | [View »](HtmlAssignment/Projects/Gaming/gamics/index.html) |
-| **🎨 Canva UI Clone** | Faithful replica of Canva's design interface with modern layout | `HTML5` `CSS3` | [View »](HtmlAssignment/Projects/Canva/canva.html) |
-| **📈 Tricker Web** | Financial stock ticker interface with live-data-style layout | `HTML5` `CSS3` `JavaScript` | [View »](HtmlAssignment/Projects/ticker/ticker.html) |
-| **🍀 DUER Clothing** | Modern e-commerce landing page for a clothing brand | `HTML5` `CSS3` | [View »](HtmlAssignment/Projects/Canva/duer.html) |
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
